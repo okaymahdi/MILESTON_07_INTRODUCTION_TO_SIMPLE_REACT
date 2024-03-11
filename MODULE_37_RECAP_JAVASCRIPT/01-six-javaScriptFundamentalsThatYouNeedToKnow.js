@@ -42,7 +42,7 @@ const output = multiply(35, 78);
  * 3 ways to access property by name.
  */
 const student = {
-    name: 'Salib', 
+    name: 'Salib Khan', 
     age: 32,
     movies: ['King Khan', 'Dhakar Mastan']
 }
