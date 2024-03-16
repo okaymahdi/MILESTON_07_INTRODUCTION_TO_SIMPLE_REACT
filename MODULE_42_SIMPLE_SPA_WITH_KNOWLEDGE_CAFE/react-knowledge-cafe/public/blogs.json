@@ -1,0 +1,52 @@
+[
+  {
+    "id": 12345,
+    "cover": "https://i.ibb.co/WxrNmjv/online-message-blog-chat-communication-envelop-graphic-icon-concept.jpg",
+    "title": "The Secret Garden",
+    "author": "Jane Doe",
+    "author_img": "https://example.com/janedoe.jpg",
+    "posted_date": "2024-03-13",
+    "reading_times": 105,
+    "hashtags": ["#fiction", "#classics", "#gardens"]
+  },
+  {
+    "id": 67890,
+    "cover": "https://example.com/cover2.jpg",
+    "title": "Galactic Adventures",
+    "author": "John Smith",
+    "author_img": "https://example.com/johnsmith.jpg",
+    "posted_date": "2024-03-12",
+    "reading_times": 78,
+    "hashtags": ["#scifi", "#adventure", "#space"]
+  },
+  {
+    "id": 24680,
+    "cover": "https://example.com/cover3.jpg",
+    "title": "The Phantom of the Opera",
+    "author": "Emily Johnson",
+    "author_img": "https://example.com/emilyjohnson.jpg",
+    "posted_date": "2024-03-11",
+    "reading_times": 92,
+    "hashtags": ["#classic", "#mystery", "#theatre"]
+  },
+  {
+    "id": 13579,
+    "cover": "https://example.com/cover4.jpg",
+    "title": "Secrets of the Forest",
+    "author": "Michael Williams",
+    "author_img": "https://example.com/michaelwilliams.jpg",
+    "posted_date": "2024-03-10",
+    "reading_times": 115,
+    "hashtags": ["#nature", "#adventure", "#mystery"]
+  },
+  {
+    "id": 98765,
+    "cover": "https://example.com/cover5.jpg",
+    "title": "The Art of Cooking",
+    "author": "Sarah Lee",
+    "author_img": "https://example.com/sarahlee.jpg",
+    "posted_date": "2024-03-09",
+    "reading_times": 65,
+    "hashtags": ["#cooking", "#recipes", "#foodie"]
+  }
+]
